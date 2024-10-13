@@ -39,7 +39,7 @@ function App() {
           <p>Fox Count: 124</p>
           <a href="https://github.com/xinitrc-ls/randomfox.ca" className='text-blue-700 underline underline-offset-8'>Add more floor</a>
           <p>
-          Submit more foxes?<br />(We accept links only)<br/>Here: <a href="https://github.com/xinitrc-ls/randomfox.ca">Github</a> or <a href="contact@xinitrc.ca">Email</a>
+          Submit more foxes?<br />(We accept links only)<br/>Here: <a href="https://github.com/xinitrc-ls/randomfox.ca" className='text-blue-700 underline underline-offset-8'>Github</a> or <a href="contact@xinitrc.ca"  className='text-blue-700 underline underline-offset-8'>Email</a>
           </p>
           </div>
 
